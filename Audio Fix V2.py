@@ -29,7 +29,6 @@ def set_volume(application_name, volume):
             volume_control = session.SimpleAudioVolume
             volume_control.SetMasterVolume(volume, None)
 
-# Call get_active()
 volume_old = 0
 while True:
     try:
