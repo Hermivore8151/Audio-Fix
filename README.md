@@ -1,5 +1,5 @@
 # Purpose
-- If you are using an AMP/DAC (I'm not sure what causes it), windows wont let you use master volume, only indivdual app volumes
+- If you are using an AMP/DAC (I'm not sure what causes it), windows wont let you use master volume, only individual app volumes
 - This program just checks the main volume, and sets every app volume equal to the master volume, Essentially emulating as if master volume worked
 
 # Installation + Usage
